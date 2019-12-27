@@ -1,0 +1,19 @@
+{
+  "name": "hexfm",
+  "version": "1.0.0",
+  "description": "Minesweeper game where players bet with hex erc20 and get 10x lol erc20",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rupertfaust/hexfm.git"
+  },
+  "author": "Rupert Faust",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rupertfaust/hexfm/issues"
+  },
+  "homepage": "https://github.com/rupertfaust/hexfm#readme"
+}
