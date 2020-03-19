@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/rupertfaust/hexfm/issues"
   },
-  "homepage": "https://github.com/rupertfaust/hexfm#readme"
+  "homepage": "https://github.com/rupertfaust/hexfm#readme",
+  "dependencies": {}
 }
